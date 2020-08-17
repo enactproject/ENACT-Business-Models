@@ -1,7 +1,7 @@
 
 # Online Learning - Business Model
 
-This page contains the business model for the Online Learning tool.
+This page contains the business model for the Online Learning tool. Online learning enabler supports the adaptation logic of a system by updating and improving the adaptation rules.
 
 ## Main Contributor
 
@@ -85,11 +85,11 @@ Current online learning solutions were devised for systems (such as cloud and we
       </tr>
     <tr>
     <td rowspan="1">
-      <b>Time To Market</b>
+      <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
       <p>
-TRL4
+Expected TRL4 at the end of the project
       </p>
     </td>
       </tr>    

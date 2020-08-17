@@ -1,7 +1,7 @@
 
 # Context-Aware Access Control - Business Model
 
-This page contains the business model for the Context-Aware Access Control tool.
+This page contains the business model for the Context-Aware Access Control tool. This tool will provide Context-aware risk & trust-based dynamic authorization mechanisms, through an IAM gateway for IoT that includes next-generation authorization mechanisms.  
 
 ![Alt text](https://github.com/enactproject/ENACTBusinessModel/blob/master/BusinessModels/Images/CAAC.png?raw=true "CAAC")
 
@@ -120,7 +120,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
    </tr>
     <tr>
     <td rowspan="1">
-      <b>Time To Market</b>
+      <b>Time To Market / TRL at the end of the project</b>
     </td>
     <td rowspan="1">
       <p>
@@ -146,7 +146,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
     <td rowspan="1">
       <p>
 <ul>
-<li> The resulting IAM offer will deliver new access control mechanisms for authorizing access to industrial objects, with ad hoc protocols, while still being able to address traditional access to IT applications. </li>
+<li> The resulting IAM offer will deliver new access control mechanisms for authorizing access to industrial objects, with ad-hoc protocols, while still being able to address traditional access to IT applications. </li>
 
 <li>The resulting IAM offer will in addition secure the access to applications and APIs.</li>
 
