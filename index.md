@@ -98,6 +98,6 @@ The following table summarizes the business models produced and their main contr
   </tr>
   <tr>
     <td class="tg-yw4l">Montimage</td>
-    <td class="tg-yw4l"><a href= "ENACT-Business-Models/BusinessModels/TestAndSimulation">Test and Simulation Tool</a></td>
+    <td class="tg-yw4l"><a href= "BusinessModels/TestAndSimulation">Test and Simulation Tool</a></td>
   </tr>
 </table>
