@@ -23,13 +23,13 @@ This page contains the business model for the Test and Simulation tool. Test and
     </td>
     <td rowspan="1">
       <p>
-        App Developer: testing application on a real IoT devices network is costly (for infrastructure), not scalable (impossible to deploy 1000 sensors just for testing), time and effort consuming (for software developer who is not hardware expertise)
+        App Developer: testing application on a real IoT devices network is costly (for infrastructure), not scalable (impossible to deploy 1000 sensors just for testing), time and effort consuming (for software developer who has no hardware expertise)
       </p>
       <p>
-        App Operator: need to make sure all the functionalities, operations of the application work properly in different scenarios. But there are many scenarios that do not happen frequently in reality.
+        App Operator: needs to make sure all the functionalities, operations of the application work properly in different scenarios. But there are many scenarios that do not happen frequently in reality.
       </p>
       <p>
-        App Owner: need to make sure the system is scalable, secured but cannot perform those tests on the production environment
+        App Owner: needs to make sure the system is scalable, secured but cannot perform those tests on the production environment
       </p>
     </td>
   </tr>
@@ -38,7 +38,7 @@ This page contains the business model for the Test and Simulation tool. Test and
       <b>Existing Alternatives</b> </td>
     <td rowspan="1">
       <p>
-        Developer rely on unit test for their application and also test the application on the production environment. There is no way to test for scalability and different cyber security attack scenarios.
+        Developer performs unit tests of their application and also test the application on the production environment. There is no way to test for scalability and different cyber security attack scenarios.
       </p>
     </td>
       </tr>
@@ -81,7 +81,7 @@ This page contains the business model for the Test and Simulation tool. Test and
       <b>IPR Background </b> </td>
     <td rowspan="1">
       <p>
-        Software testing is one of the strong research background of Montimage team
+        Software testing is one of the strong research background of the Montimage team
       </p>
     </td>
       </tr>
@@ -89,7 +89,7 @@ This page contains the business model for the Test and Simulation tool. Test and
     <td rowspan="1">
       <b>Description </b> </td>
     <td rowspan="1">
-      <p>We are offering a SaaS solution to efficiently perform continuous simulation and test in highly regulated environments. A self-hosted solution with licensing also in a plan</p>
+      <p>We are offering a SaaS solution to efficiently perform continuous simulation and test in highly regulated environments. A licensing plan is also possible</p>
     </td>
       </tr>
      <tr>
@@ -110,7 +110,7 @@ This page contains the business model for the Test and Simulation tool. Test and
     </td>
     <td rowspan="1">
       <ul>   
-        <li> 1 proposal for research project with industry are accepted</li>
+        <li> One proposal for a research project with industry is accepted</li>
         <li> 
           Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials.
         </li>
@@ -141,7 +141,7 @@ This page contains the business model for the Test and Simulation tool. Test and
         Write and test IoT application even without a physical IoT system
       </p>
       <p>
-        Test every change in IoT system (new software update, new added device) and detect the problem before deploy on the production environment
+        Test every change in IoT system (new software update, new added device) and detect the problem before deploying on the production environment
       </p>
       <p>
         Simulate different normal/abnormal behaviours and cyber-security attacks to detect the problem in the future.
@@ -156,7 +156,7 @@ This page contains the business model for the Test and Simulation tool. Test and
       <b>Unfair Advantage</b>
     </td>
     <td rowspan="1">
-      <p>Strong research and academy networks helps the tool easier to be adopted and tested </p>
+      <p>Strong research and academy collaboration helps the tool easier to be adopted and tested </p>
       <p>Strong research background in software testing </p>
     </td>
   </tr>
@@ -179,7 +179,7 @@ This page contains the business model for the Test and Simulation tool. Test and
     </td>
     <td rowspan="1">
       <p>
-      Application Developer - who want to develop IoT application but does not want to (need to) install IoT devices network</p>
+      Application Developer who want to develop IoT application but does not want to or cannot install IoT devices network</p>
     </td>
   </tr>
   <tr>
@@ -187,7 +187,7 @@ This page contains the business model for the Test and Simulation tool. Test and
       <b>Segment</b>
     </td>
     <td rowspan="1">
-      <p>SIS provider
+      <p>Smart IoT System provider
     </p>
     </td>
   </tr>
@@ -202,7 +202,7 @@ This page contains the business model for the Test and Simulation tool. Test and
     </td>
     <td rowspan="1">
       <p>
-      A SaaS solution
+      A SaaS (Software as a Service) solution
       </p>
       <p>
       Integrate as a plugin in other DevOps tools such as: Jenkins, github, gitlab, bitbucket
@@ -219,7 +219,7 @@ This page contains the business model for the Test and Simulation tool. Test and
         From our website
       </p>
       <p>
-        Free version for research and academy projects on gitlab (enact repository)
+        Free version for research and academy projects on gitlab (ENACT repository)
       </p>
     </td>
   </tr>
