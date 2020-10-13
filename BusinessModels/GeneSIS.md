@@ -23,7 +23,9 @@ This page contains the business model for the GeneSIS (Orchestration and deploym
     </td>
     <td rowspan="1">
       <p>
-        Needs continuous deployment over IoT, Edge and Cloud. Need support for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms and Mechanisms to properly monitor what has been deployed)
+
+        The development and operation of smart IoT systems need support for continuous deployment over ALL different layers of IoT, Edge, and Cloud infrastructures. This includes deployment over local resources (including in local area network) with no direct access to the Internet. Moreover, the complexity of such smart IoT systems and the uncertainty of operating environments (e.g., evolving security threats) urge for trustworthy deployment (i.e., support for deploying trustworthiness mechanisms such as security/privacy controls, and mechanisms reliable deployment such as to properly monitor what has been deployed)
+
 
 </p>
     </td>
@@ -34,7 +36,8 @@ This page contains the business model for the GeneSIS (Orchestration and deploym
     <td rowspan="1">
       <p>
         
-Current solutions: (i) No deployment solution tailored for IoT, Edge, and Cloud infrastructure, (ii) No monitoring of the execution flow of the application. This is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tool do not integrate with security and privacy tools.
+Current solutions: (i) No deployment solution tailored for IoT, Edge, and Cloud infrastructures (in particular no support for deployment on devices with no direct access to Internet), (ii) No monitoring of the execution flow of the application. Monitoring is particularly relevant for debugging on IoT devices (as this is typically a complicated task), (iii) deployment tools do not integrate with security and privacy tools, and (iv) no customizable solution for rolling and continuous deployment.
+
 
   </p>
     </td>
@@ -117,7 +120,8 @@ Current solutions: (i) No deployment solution tailored for IoT, Edge, and Cloud 
     <td rowspan="1">
       <p>
 
-TRL 8 at the end of the Project
+TRL7
+
       </p>
     </td>
       </tr>    
@@ -132,7 +136,9 @@ TRL 8 at the end of the Project
     </td>
     <td rowspan="1">
       <p>
-Solution has been designed with specific support for all the infrastructure continuum. It is technology agnostic as well as cloud and platform independent. Faster time-to-market, better agility. It seamlessly integrates with security and privacy mechanisms for better trustworthiness.
+
+Solution has been designed with specific support for all the infrastructure continuum. It is technology agnostic as well as cloud and platform independent. Provide way to perform continuous deployment on local devices, reaching leafs of the infrastructure with no or limited access to Internet. Faster time-to-market, better agility. It seamlessly integrates with security and privacy mechanisms for better trustworthiness.
+
 
 Same language includes runtime information, and in particular execution flow can be monitored when ThingML is used. Faster time-to-market, better agility. </p>
     </td>
@@ -244,3 +250,34 @@ Research project, open source repositories
   </tr>
 </table>
 
+### Current status with respect to Key Metrics
+
+ <table>
+   <tr>
+     <td rowspan="1">
+       <b>KPIs</b>
+     </td>
+     <td rowspan="1">
+       <p>
+      <ul>   
+        <li> 2 proposals for research projects or bi-lateral project with industry are submitted - <b>Status: Done</b></li>
+
+ <li> Code delivered on a public repository (e.g., github, gitlab) together with documentation and tutorials. Open source communities have been contacted. - <b>Status: Ongoing, code delivered Open source communities are being contacted.</b></li>
+
+ <li> Involved in the OASIS TOSCA standardization activity - <b>Status: Done</b></li></ul>
+
+    </p>
+     </td>
+       </tr>
+     <tr>
+     <td rowspan="1">
+       <b>Time To Market / TRL at the end of the project</b>
+     </td>
+     <td rowspan="1">
+       <p>
+
+ TRL 7 at the end of the Project
+       </p>
+     </td>
+       </tr>    
+   </table>
