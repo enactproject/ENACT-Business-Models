@@ -159,7 +159,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
       <b>Unfair Advantage</b>
     </td>
     <td rowspan="1">
-      <p>Evidian, now a member of the ATOS Group, is a French Independent Software Vendor with a worldwide presence based on subsidiaries and a network of 70 partners. It is the European leader in identity and access management software, with 16 years experience. Evidian identity and access management solutions help over 800 organizations in the world improve their agility, enhance security and comply with laws and regulations, while reducing costs. </p>
+      <p>Evidian, now a member of the ATOS Group, is a French Independent Software Vendor with a worldwide presence based on subsidiaries and a network of 70 partners. It is the European leader in identity and access management software, with 18 years experience. Evidian identity and access management solutions help more than 5,000,000 users in more than 900 organizations throughout the world improve their agility, enhance security and comply with laws and regulations, while reducing costs. </p>
     </td>
   </tr>
 </table>
@@ -220,7 +220,11 @@ Channels that will be used to promote the solution:
 
 <li> Major events and exhibitions such as Infosecurity (UK and Belgium), Gartner IAM Summit (UK), European Identity Conference (Germany), Les Assises (France), and Japan IT Week / Information Security Expo </li>
 
-<li>Publications in specialized magazines (e.g. DSIH or MySIH in France for the healthcare market). </li></ul>
+
+<li>Publications in specialized magasins (e.g. DSIH or MySIH in France for the healthcare market). </li>
+
+<li>Briefings with analysts (e.g. KuppingerCole, Gartner). </li></ul>
+
 
 Most marketing communication is channelled through the Evidian web site. 
 Sales and training material.
@@ -315,7 +319,7 @@ ECC can provide the folowing type of services:
     <td rowspan="1">
       <p>Main sources of revenue:
 <ul>
-<li> Licences: Perpetual Licenses on a One-Time Fee basis.
+<li> Licences: Perpetual Licenses on a One-Time Fee basis, aaS licences.
   The price is  based on the number of users and then  OPTIONS can be ordered.
 
   Minimal order is 100 users, with degressive pricing points at 500, 1000, 3000, 5000, 7500, 10000, 15000, 25000, 50000, 100000, 200000, 500000 and 1000000 users. 
