@@ -112,7 +112,7 @@ The context-aware risk-based authorization server will be integrated in the Evid
   <li>Filed patents:
   <ul>
     <li>100% = 2 patents</li>
-    <li>50% = 1 patents</li>
+    <li>50% = 1 patent</li>
   <li>0% = 0 patent </li>
   </ul></li>
    </ul></p>
@@ -220,9 +220,11 @@ Channels that will be used to promote the solution:
 
 <li> Major events and exhibitions such as Infosecurity (UK and Belgium), Gartner IAM Summit (UK), European Identity Conference (Germany), Les Assises (France), and Japan IT Week / Information Security Expo </li>
 
+
 <li>Publications in specialized magasins (e.g. DSIH or MySIH in France for the healthcare market). </li>
 
 <li>Briefings with analysts (e.g. KuppingerCole, Gartner). </li></ul>
+
 
 Most marketing communication is channelled through the Evidian web site. 
 Sales and training material.
